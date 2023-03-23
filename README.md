@@ -18,4 +18,8 @@ finds a file called 'image.jpg' --> created a folder called jpg --> stores 'imag
 
 ![example](example/screenshot.png)
 
+
+| :exclamation:  this works only for linux, haven't tested it on windows/macOs  |
+|-----------------------------------------|
+
 you're more then welcome to contribute
