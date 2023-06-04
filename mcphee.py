@@ -24,7 +24,7 @@ def enumerate_files(dir):
 if __name__ == "__main__":
     if len(sys.argv) > 1:
         directory = sys.argv[1]
-        if os.path.exists(directory) && os.path.isdir(directory):
+        if os.path.exists(directory) and os.path.isdir(directory):
              enumerate_files(directory)
         else:
             print("Error: check if the directory exists, or if it's not a file")
